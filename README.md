@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live at Netlify.com
- https://phone-store-by-ruchir-bisht-007.netlify.com/mycart
+ https://phone-store-by-ruchir-bisht-007.netlify.com
  
  
  
